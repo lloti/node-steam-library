@@ -1,0 +1,26 @@
+{
+  "name": "steam-library",
+  "description": "",
+  "main": "index.js",
+  "version": "1.0.0",
+  "keywords": [
+    "steam",
+    "library",
+    "search",
+    "search",
+    "steampowered"
+  ],
+  "maintainers": [{
+    "name": "Dim",
+    "email": "dimggyt@gmail.com",
+    "web": "https://dim.codes"
+  }],
+  "bugs": {
+    "web": "https://github.com/lloti/node-steam-library/issues"
+  },
+  "repositories": [{
+    "type": "git",
+    "url": "https://github.com/lloti/node-steam-library"
+  }],
+  "homepage": "https://github.com/lloti/node-steam-library#readme"
+}
